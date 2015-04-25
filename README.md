@@ -11,10 +11,10 @@ Detailed Explaination
 -----------
 How does it work? 
 
-1. Checks to see if you have Python installed at C:\Python34
+* Checks to see if you have Python installed at C:\Python34
 
-2. If you do not have Python installed at C:\Python34, you get an error message.
+* If you do not have Python installed at C:\Python34, you get an error message.
 
-2. If Python is installed, it checks to see if user has a folder named 'sites' in the Python directory.
+* If Python is installed, it checks to see if user has a folder named 'sites' in the Python directory.
 
 ⋅⋅* The cloned element has the 'trueletter' class removed and the 'randomletter' class added.

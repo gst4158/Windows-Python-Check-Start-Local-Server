@@ -17,4 +17,4 @@ How does it work?
 
 * If Python is installed, it checks to see if user has a folder named 'sites' in the Python directory.
 
---* The cloned element has the 'trueletter' class removed and the 'randomletter' class added.
+..* The cloned element has the 'trueletter' class removed and the 'randomletter' class added.

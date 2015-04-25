@@ -17,6 +17,11 @@ How does it work?
 
 * If Python is installed, it checks to see if user has a folder named 'sites' in the Python directory.
 
-2. Another item
+  * If there is not 'sites' directory, one is created with a blank index.html inside.
+  * If 'sites'exist, than the code moves forward
 
-  ⋅⋅* Unordered sub-list. 
+* A local server is created at http://localhost:1337
+
+* Your default Internet Browser will then open to: http://localhost:1337/sites
+
+* Your local server will remain as long as you keep the command line window open.

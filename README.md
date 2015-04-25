@@ -18,7 +18,6 @@ How does it work?
 * If Python is installed, it checks to see if user has a folder named 'sites' in the Python directory.
 
   * If there is not 'sites' directory, one is created with a blank index.html inside.
-  * If 'sites'exist, than the code moves forward
 
 * A local server is created at http://localhost:1337
 

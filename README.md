@@ -18,4 +18,4 @@ How does it work?
 * If Python is installed, it checks to see if user has a folder named 'sites' in the Python directory.
 
 2. Another item
-⋅⋅* Unordered sub-list. 
+  ⋅⋅* Unordered sub-list. 

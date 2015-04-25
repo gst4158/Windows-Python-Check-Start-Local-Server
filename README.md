@@ -16,5 +16,4 @@ How does it work?
 * If you do not have Python installed at C:\Python34, you get an error message.
 
 * If Python is installed, it checks to see if user has a folder named 'sites' in the Python directory.
-
-⋅⋅⋅ The cloned element has the 'trueletter' class removed and the 'randomletter' class added.
+⋅⋅⋅* The cloned element has the 'trueletter' class removed and the 'randomletter' class added.

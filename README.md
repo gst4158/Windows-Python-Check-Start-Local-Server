@@ -1,5 +1,7 @@
 # Python Check + Start Local Server
 
+ [![License](http://img.shields.io/badge/License-MIT-blue.svg)](http://opensource.org/licenses/MIT)
+
 ### Checks for python and runs local server (Widows)
 
 Installation
